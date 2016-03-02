@@ -1,1 +1,22 @@
-["index.md"]
+[
+    "index.md",
+    "pace.md",
+    "advanced-dashboards.md",
+    "assign-filters.md",
+    "org-config.md",
+    [
+        "unit-tests.md",
+        "coverage.md"
+    ],
+    [
+        "automation.md",
+        "ci.md"
+    ],
+    "ui-consistency.md",
+    "error-tracking.md",
+    [
+        "analytics.md",
+        "user-flow.md"
+    ],
+    "coming-soon.md"
+]
