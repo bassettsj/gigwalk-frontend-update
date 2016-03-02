@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Gigwalk Front-End Update",
+    "packageVersion": "1.0.0",
+    "revealTheme": "white",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "bassettsj",
+    "githubRepository": "gigwalk-frontend-update"
+  }
+}
